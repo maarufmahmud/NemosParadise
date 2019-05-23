@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "362780955548",
+    "firebase_url": "https://nemos-paradise.firebaseio.com",
+    "project_id": "nemos-paradise",
+    "storage_bucket": "nemos-paradise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362780955548:android:872a8224bdfca5a3",
+        "android_client_info": {
+          "package_name": "com.sultansit.nemosparadise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362780955548-0755rq45s51djvm4noirtvm3iia67nhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi6GrxCPcqpbjvaRMoYOfQuIO-1tWjbrk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
